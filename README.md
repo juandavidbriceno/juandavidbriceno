@@ -1,4 +1,4 @@
-### Here is about me!
+### What about me!
 
 - 👋 Hi, I’m Juan David Briceno Guerrero. I'm a sustainable Industrial Engineer passionate about science, and its diverse applications on environmental and health contextes. The modelling of real life situations throught mathematical approaches awes me so much.
  
